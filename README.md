@@ -1,6 +1,21 @@
 # st1ngrayone_microservices
 st1ngrayone microservices repository
 
+## HW # 20 Kubernetes-2
+
+- Устрановлен minikube на hyper-v
+- Отредактированы manifest файлы
+- Запущен локальный кластер на minikube
+- Развернут кластер в gke
+
+## HW # 19 Kubernetes-1
+
+- Созданы manifest файлы в директории kubernetes/reddit
+`ui-deployment.yml`
+`post-deployment.yml`
+`comment-deployment.yml`
+- Пройден KHW развернут кластер k8s по мануалу https://github.com/express42/kubernetes-the-hard-way
+
 ## HW # 18 Logging-1 
 
 - Создан отдельный compose файл для логирования `docker-compose-logging.yml`
